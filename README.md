@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Jesus!</h1>
-<h3 align="center">Apaixonado por análise de dados e negócios</h3>
+<h3 align="center">Apaixonado por Análise de Dados e Negócios</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Relatório de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNzcxMzQxN2MtMGVhMC00YjA4LTljZGMtYjZkNmM0NzVhMDQ5IiwidCI6ImFkYzZmZDEzLTUwZmUtNDk3NS1hM2NmLTdiNmZkNmRjYTU2ZCJ9)
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Relatório de Vendas Apple Premium Resseller](https://app.powerbi.com/view?r=eyJrIjoiNzcxMzQxN2MtMGVhMC00YjA4LTljZGMtYjZkNmM0NzVhMDQ5IiwidCI6ImFkYzZmZDEzLTUwZmUtNDk3NS1hM2NmLTdiNmZkNmRjYTU2ZCJ9)
 
 - 🌱 Também estou aprendendo **Python e Estatística**
 
